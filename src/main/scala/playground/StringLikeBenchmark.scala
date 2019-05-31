@@ -11,3 +11,4 @@ class StringLikeBenchmark extends StdBenchAnnotations {
       "*" * 1024
     }
   }
+}
